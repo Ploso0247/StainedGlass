@@ -1,5 +1,4 @@
-# StainedGlass
-Repository for Stained Glass Windows code
+# OSL project
 
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Ploso0247/pen/gOBpXMd](https://codepen.io/Ploso0247/pen/gOBpXMd).
 
-This code is intended solely for use by Our Savior Lutheran Church. It is a simple website coded to put a pamphlet onto the computer, where users can read it online.
